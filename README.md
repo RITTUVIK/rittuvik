@@ -1,63 +1,24 @@
-<h1 align="center">⚡ Ritty ⚡</h1>
+### Rithvik Balavikram/ Ritty
 
-<p align="center">
-  <a href="https://dal.ca"><img src="https://img.shields.io/badge/Dalhousie%20University-CS-FFB81C?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/🏆%203x%20Hackathon%20Winner-FFD700?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Building%20On--Chain-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
+CS @ Dal. building on-chain. 4x hackathon wins.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9F7AEA&center=true&vCenter=true&width=650&lines=Computer+Science+%40+Dalhousie+University;3x+Hackathon+Winner+%F0%9F%8F%86;On-chain+governance+%2B+token+rewards;Blockchain+%7C+Web+%7C+Mobile+%7C+Games" />
-</p>
+currently - solana, prediction markets, mobile, web
 
----
+off-duty - gaming, soccer
 
-### 👾 About Me
+### tech
 
-```ts
-const ritty = {
-  role: "CS Student & BlockChain Dev",
-  school: "Dalhousie University 🎓",
-  curr status: "3x Hackathon Wins 🏆",
-  into: ["Blockchain & DeFi (mostly Solana)", "Prediction markets (Polymarket)", "Mobile & web apps"],
-  offDuty: ["gaming 🎮", "soccer ⚽"],
-};
-```
-
----
-
-### 🛠️ Tech I Work With
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=flat-square&logo=solana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITTUVIK&theme=tokyonight&hide_border=true" />
-</p>
+### links
 
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://x.com/rittuvik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://discord.com/users/566410184252063744"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/rittuvik"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:mail2orivik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/rittuvik)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rittuvik)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/566410184252063744)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mail2orivik@gmail.com)
