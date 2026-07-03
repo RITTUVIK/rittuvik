@@ -1,6 +1,6 @@
 ### Rithvik Balavikram/ Ritty
 
-CS @ Dal. building on-chain. 4x hackathon wins.
+Intern @polysights. CS @dal. 4x hackathon wins.
 
 currently - solana, prediction markets, mobile, web
 
